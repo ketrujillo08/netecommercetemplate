@@ -1,0 +1,11 @@
+C:\Users\mx02519\Documents\NetCore\Ecommerce\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\mx02519\Documents\NetCore\Ecommerce\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\mx02519\Documents\NetCore\Ecommerce\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\mx02519\Documents\NetCore\Ecommerce\Infrastructure\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\mx02519\Documents\NetCore\Ecommerce\Infrastructure\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\mx02519\Documents\NetCore\Ecommerce\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\mx02519\Documents\NetCore\Ecommerce\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mx02519\Documents\NetCore\Ecommerce\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\mx02519\Documents\NetCore\Ecommerce\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\mx02519\Documents\NetCore\Ecommerce\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\mx02519\Documents\NetCore\Ecommerce\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
